@@ -84,11 +84,8 @@ A Chrome window will open, navigate to Spotify, search for the artist, scroll th
 
 ---
 
-## 🚀 To Do
-
-- Add support for album or playlist scraping
-- Add CSV export for extracted track names
-- Add CLI argument for artist name
+## 📸 Example Image
+![Adele Artist Page](saved_artist_pages/adele_artist_page.png)
 
 ---
 
